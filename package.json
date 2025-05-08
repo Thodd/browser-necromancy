@@ -1,0 +1,14 @@
+{
+  "name": "browser-necromancy",
+  "version": "1.0.0",
+  "description": "starts a clean chrome instance with puppeteer",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Thorsten 'Thodd' Hochreuter",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.8.2"
+  }
+}
